@@ -10,6 +10,8 @@
 [![GitHub license](https://img.shields.io/github/license/esofar/cnblogs-theme-silence.svg)](https://github.com/esofar/cnblogs-theme-silence/blob/master/LICENSE)
 
 </div>
+项目修改Dark的配色模式：
+ 主页显示效果： https://www.cnblogs.com/YangGC/
 
 ## 介绍
 
